@@ -1,0 +1,12 @@
+.home_bg{
+    background-image: url('../assests/pexels-tim-douglas-6567540.jpg');
+    height: 90.5vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+a svg{
+    margin-left: 10px;
+}

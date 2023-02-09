@@ -1,0 +1,8 @@
+.singup-bg{
+    background-image: url('../assests/pexels-eberhard-grossgasteiger-2310713.jpg');
+    height: 90.5vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
